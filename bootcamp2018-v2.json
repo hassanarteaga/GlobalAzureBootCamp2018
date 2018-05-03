@@ -1,0 +1,17 @@
+{
+  "id": "da2905e8-405d-4c60-a539-f78277095d4b",
+  "mypartitionkey": "MEXICO",
+  "speaker": "Hassan Arteaga Rodriguez",
+  "presentations": [
+    {
+      "name": "Usando Azure Cosmos DB",
+      "id": "e0c7f4ca-211c-449d-ac0f-c55591001664",
+      "track": "PaaS"
+    },
+    {
+      "name": "Arquitecturas con Azure Cosmos DB",
+      "id": "8f1b8ad7-e553-41e4-b3b3-2fa8dd5e40b3",
+      "track": "Misc"
+    }
+  ]
+}
